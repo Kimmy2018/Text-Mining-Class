@@ -1,2 +1,2 @@
 # Text-Mining-Group
-course taken in Fall 2018
+Fall 2018
